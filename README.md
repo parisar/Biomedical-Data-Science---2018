@@ -2,11 +2,6 @@
 Instructor:
 Parisa Rashidi
 Email Address: parisa.rashidi@ufl.edu
-Office Phone Number: 352-392-9469
-Office Hours:   by appointment, NEB 459
-
-Teaching Assistants: TBA
-Please contact through the Canvas website
 
 
 Course Description
