@@ -12,6 +12,6 @@ Prereq: BME 3053L, COP2271
 Coreq: - N/A
 
 Course Objectives
-•	Understand data science techniques in the biomedical domain, 
-•	Understand the limitations of each technique with respect to biomedical data,
-•	Learn to use biomedical data science programming libraries. 
+-Understand data science techniques in the biomedical domain, 
+- Understand the limitations of each technique with respect to biomedical data,
+- Learn to use biomedical data science programming libraries. 
