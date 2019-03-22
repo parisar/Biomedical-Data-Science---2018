@@ -1,7 +1,8 @@
 # Biomedical-Data-Science---2018
-Instructor:
-Parisa Rashidi
+Instructor: Parisa Rashidi, https://www.bme.ufl.edu/labs/rashidi/
 Email Address: parisa.rashidi@ufl.edu
+Course Website: https://www.bme.ufl.edu/labs/rashidi/biomedical-data-science/
+
 
 
 Course Description
